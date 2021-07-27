@@ -8,6 +8,8 @@ IMDB-Movie-Dataset (Download from Kaggle.com)
 
 # Output
 
+<img width="324" alt="output" src="https://user-images.githubusercontent.com/75296875/127172695-650b5e90-dc56-4473-ab6c-c88ba97e163c.PNG">
+
 
 
 ## 🔗 Links
